@@ -14,7 +14,6 @@
             "@/utils/*": ["utils/*"],
             "@/data/*": ["data/*"]
         },
-        "types": ["@astrojs/image/client"]
     },
     "exclude": ["node_modules", "**/node_modules/*", ".vscode", "dist"]
 }
